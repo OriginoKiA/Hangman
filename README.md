@@ -2,7 +2,7 @@
 Description
 It's quite straightforeward, this is an unfinished hangman game made by me
 
-type SAVE to save a game
+type SAVE to save a game\n
 type LOAD to load a game
 type HINT to get a hint
 type EXIT to exit
